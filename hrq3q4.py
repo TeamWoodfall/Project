@@ -6,3 +6,4 @@ if __name__ == '__main__':
     print(a*b)
     print(a // b)
     print(a / b)
+#i am doing this ti check in git
