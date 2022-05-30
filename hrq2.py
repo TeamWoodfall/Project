@@ -18,3 +18,4 @@ elif (n > 20 and n % 2 == 0):
     print("Not Weird")
 else:
     print("Weird")
+#created a branch in project after forking it from main branch
